@@ -16,3 +16,4 @@ rootProject.name = "AppMensagem"
 include ':app'
 include ':apparitmetico'
 include ':appfuncao_sem_retorno'
+include ':app_imc_funcao_retorno'
