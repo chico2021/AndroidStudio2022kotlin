@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/app_imc_funcao_retorno" />
             <option value="$PROJECT_DIR$/apparitmetico" />
             <option value="$PROJECT_DIR$/appfuncao_sem_retorno" />
+            <option value="$PROJECT_DIR$/appimagecircle_gradiente" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
